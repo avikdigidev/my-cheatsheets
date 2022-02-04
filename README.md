@@ -24,3 +24,5 @@ ssh -T git@github.com
 #If it says something like the following, it worked:
 
 #Hi username! You've successfully authenticated, but Github does not provide shell access.
+
+That's it! Account is configured on Windows.
